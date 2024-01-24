@@ -6,7 +6,6 @@ website:
   navbar:
     right:
       - about.qmd
-      - posts.qmd
       - lists.qmd
       - icon: github
         href: https://github.com/DAboaba

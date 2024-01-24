@@ -20,4 +20,6 @@ I’ve heard data scientists described as people who are better statisticians th
 
 I am an avid reader 📚, gamer 🎮, learner 🔬 and tinkerer 🔧.
 
-[shokunin](index.qmd) is my data-science and machine-learning [blog](posts.qmd) where I leverage my interest in learning, writing, programming, and popular culture to irreverently pursue continued improvement in my craft.
+[shokunin](index.qmd)[^1] is my data-science and machine-learning blog where I leverage my interest in learning, writing, programming, and popular culture to irreverently pursue continued improvement in my craft.
+
+[^1]: If you're curious about my blog's name, check [this post](posts/about_shokunin/index.qmd)
