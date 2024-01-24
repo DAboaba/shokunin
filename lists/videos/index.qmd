@@ -1,0 +1,10 @@
+---
+title: "Videos"
+author: "Dami"
+date: "2024-01-24"
+categories: [lists]
+---
+
+A running list of videos I am reading, have read, or will read.
+
+To find out more about why I'm doing this and what the symbols to the left of each video mean, check [here](../../posts/about_lists/index.qmd).

@@ -1,12 +1,63 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2024-01-12"
+title: "Straight Outta Brooklyn"
+subtitle: "Will blog for money ... or a better job - ruminations on why this exists"
+image: nwa.jpg
+author: "Dami"
+date: "2024-01-24"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+I decided to make a blog!
 
-![](thumbnail.jpg)
+For quite a while I’ve been feeling stuck in my career and unsure about how to demonstrate and build my data-science skills. All the advice I’ve heard (and read) can be boiled down into variations of “do a personal project!!”. [Macklin Flusher](https://medium.com/@macklinfluehr) has this [fantastic article](https://medium.com/@macklinfluehr/the-modern-job-search-hasnt-gotten-harder-47148b6bd479) about modern job searching. The article is worth a full read, but the TLDR is this:
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+::: {.callout-note appearance="minimal" icon="false"}
+“The new networking is Project Work. If you want a job, you are going to have to show them you can do it”.
+:::
+
+Well, I finally decided to follow Macklin’s advice (more on that later 😉), but then (because I can’t resist using one goal to achieve other goals 🤦🏾‍♂️) I decided to also build a blog to host that project. 
+
+**But wait, what’s a blog?** 🤔
+
+A blog is just a website with a reverse chronological order (newer content appears first) that can be indexed and syndicated on RSS feeds. Whereas many website pages are pretty static, because they are updated so frequently, blogs tend to be very dynamic.
+
+**But wait, why a blog?** 🧐
+
+I've created a blog because I want to:
+
+1.  *Build a brand by building an easily-shared portfolio of work*
+
+    -   This blog is inspired by what I’ve been impressed by in the wild - particularly blogs by [Emily Riederer](https://emilyriederer.netlify.app), [Chip Huyen](https://huyenchip.com), [Danielle Navarro](https://djnavarro.net), and [Vicky Boykin](https://vickiboykis.com)[^1].
+    -   These blogs all differ in area of focus, style, content, etc but they all share one thing in common - they help their authors build their personal brands by publicizing their skill and work.
+
+2.  *Shore up what I’m learning by writing for an audience*
+
+    -   Below is a visualization by [diataxis](https://diataxis.fr/#) that provides a systematic way of thinking about technical writing.
+
+    ![](diataxis.png)
+
+    -   Right now, this blog is meant to help me promote my work, demonstrate my understanding, and teach (or learn with) others. That means this blog will primarily feature explainers, how-to-guides, and tutorials.[^2]
+    -   **TLDR**: (particularly for visual learners out there 😉) this blog will focus on quadrants 1, 2, and 3! 
+
+3.  *Centralize information that I want to come back to*
+
+    -   I find that I always stumble on and quickly lose track of really helpful resources so I’ll put them all [here](../../lists.qmd).
+
+4.  *Build an online space where I can refine my thoughts and ideas*
+
+    -   Inspired by [Anne-Laure Le Cuff](https://nesslabs.com/digital-garden-set-up), I would love for this blog to be “**an online space at the intersection of a notebook and a blog**” where I can share and cultivate connected thoughts and ideas.
+    -   Crucially, I want this blog to be one I enjoy creating and tending. To understand the kind of content I enjoy, you’ll need to understand a little bit more about me. Conveniently, I have [a page](../../about.qmd) that helps you do just that!
+
+[^1]: You can find some more blogs I follow [here](../../lists/blogs/index.qmd)
+
+[^2]: Look out for these categories/tags to get an idea of what to expect from a post.
+
+So, to summarize, I’m hoping to create a digital garden that helps me build a brand, shore up what I’m learning, and centralize information …  Sounds easy enough?! 😫
+
+So, welcome to my blog [shokunin](../../index.qmd) ... straight outta brooklyn.
+
+![](nwa.jpg)
+
+Dedicated to Craft,
+
+Dami

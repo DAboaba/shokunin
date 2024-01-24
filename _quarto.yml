@@ -6,14 +6,17 @@ website:
   navbar:
     right:
       - about.qmd
+      - posts.qmd
+      - lists.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/DAboaba
+      - icon: linkedin
+        href: https://www.linkedin.com/in/daboaba/
 format:
   html:
-    theme: sketchy
+    theme: lumen
     css: styles.css
+    highlight-style: zenburn
 
 comments:
   giscus:

@@ -1,0 +1,47 @@
+---
+title: "Ideas"
+author: "Dami"
+date: "2024-01-15"
+categories:
+draft: true
+---
+
+Future post ideas
+
+-   How I made this blog
+
+-   Explain analytical engineering angle
+
+-   API (once reviewed)
+
+-   Add thesis to GitHub 
+
+-   Brushing up my Quarto
+
+-   approach to learning
+
+-   That’s slower than I thought! On doing one successful thing too many times (write after reading Emily Robinson’s article)
+
+    -   Quote from David Robinson - the way you’d do something once is rarely the best way to do it 1000x
+
+    -   Inspired by this post from Hooked on Data and driven by a situation at work where I’d written code that did something correctly once and then just attempted to map that code. Although it took a while. I came back to the repo ran it and was shocked that it ran much quicker than before. Turns out a senior colleague had changed one line (shown below). This is an attempt to figure out why it was so fast.
+
+-   MTA analysis
+
+    -   Finish RMD of recreation of Macklin Fluehr's [analysis](https://medium.com/@macklinfluehr/which-is-better-omny-or-30-day-unlimited-metrocard-22293f51f009) by accounting for inflation
+
+    -   Discussing Emily Riederer's [RMDD concept](https://emilyriederer.netlify.app/post/rmarkdown-driven-development/) by turning the analysis into a more controlled RMD and then a package
+
+    -   Turn it into a shiny app
+
+-   Signing up for Kent beck’s blog and using TDD at work
+
+-   Convert work code-and-tell presentations into blog posts
+
+-   Convert work OTIL presentations into blog posts
+
+-   Convert work datapalooza presentations into blog posts
+
+-   Make post about 100 days of code, then begin pointing to repositories where you’ve made cool things and explaining the code 
+
+-   Be careful about what you put in your warnings - on unit testing and how your tests can fail because of your poor understanding of regex

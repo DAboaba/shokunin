@@ -1,12 +1,17 @@
 ---
 title: "shokunin"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
 ---
+
+::: {.callout-note appearance="minimal"}
+“All I want to do is make better sushi … I do the same thing over and over improving bit by bit. There is always a yearning to achieve more … I don’t think I’ve achieved perfection. But I feel ecstatic all day. I love making sushi. That’s the spirit of the Shokunin”
+:::
+
+I first came across the term ’shokunin’ while watching [Midnight Asia](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiq9Y6Jy_aDAxUeCTQIHfvLCssQFnoECFMQAQ&url=https%3A%2F%2Fwww.netflix.com%2Ftitle%2F81134160&usg=AOvVaw32hLs-4IhkC_KP3jTbcrgG&opi=89978449) — a Netflix docuseries about the nightlife of six east asian cities. In the Tokyo episode, we meet Rogerio, co-founder of one of Asia’s 50 best bars, who shares a profound insight: “To master your craft, you need to master yourself. In Japan there is a strong culture of shokunin … a person that is always pursuing to better his craft”.
+
+Shokunin describes an orientation to work that emphasizes dedication to craft through exceptional technical skill and an unwavering quest for mastery. Jiro Ono, the star of 'Jiro Dreams of Sushi' and already a sushi master by every conventional standard, stands out and continues to passionately refine his craft because his aspiration is excellence itself. 
+
+I’ve chosen to name this blog ‘shokunin’ to reflect my desire to apply this philosophy to the data science and machine learning work I share here. I want to build exceptional technical skills and pursue continual improvement in my craft and I’d be thrilled if you joined [me](about.qmd) for the ride.
+
+Dedicated to craft,
+
+Dami
