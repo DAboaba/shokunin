@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "lists.html",
+    "href": "lists.html",
+    "title": "Lists",
+    "section": "",
+    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJan 24, 2024\n\n\nArticles\n\n\nDami \n\n\n\n\nJan 24, 2024\n\n\nBooks\n\n\nDami \n\n\n\n\nJan 24, 2024\n\n\nInspiring Blogs\n\n\nDami \n\n\n\n\nJan 24, 2024\n\n\nVideos\n\n\nDami \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello 👋🏾 and welcome to shokunin!\nMy name is Dami and I’m currently a research analyst (really an analytic engineer) @ a do-tank that tests, scales, and implements promising solutions to urban problems. I am an economist by training, a programmer by accident, and a data scientist at heart. \nI’ve heard data scientists described as people who are better statisticians than most software engineers and better software engineers than most statisticians, and I’ve never felt more seen 😂.\nI am an avid reader 📚, gamer 🎮, learner 🔬 and tinkerer 🔧.\nshokunin is my data-science and machine-learning blog where I leverage my interest in learning, writing, programming, and popular culture to irreverently pursue continued improvement in my craft."
+  },
+  {
+    "objectID": "lists/videos/index.html",
+    "href": "lists/videos/index.html",
+    "title": "Videos",
+    "section": "",
+    "text": "A running list of videos I am reading, have read, or will read.\nTo find out more about why I’m doing this and what the symbols to the left of each video mean, check here."
+  },
+  {
+    "objectID": "lists/articles/index.html",
+    "href": "lists/articles/index.html",
+    "title": "Articles",
+    "section": "",
+    "text": "A running list of articles I’ve read, am reading, or am planning to read.\nTo find out more about why I’m doing this and what the symbols to the left of each article mean, check here.\nWork\n\nMeta doing God’s work\nStop using histograms\nData Fraud Allegations\nGetting Shit Done as a Software Engineer\nHow Uber finds nearby drivers\nMastering System Design\nAnomaly Detection in Time-Series Analysis\nWhat is Good Code?\nCausal Machine Learning for Creative Insight\nHow to Learn Deeply in Programming\nPareto’s Law in EDA Plots\nCausal Machine Learning in Marketing\nMaking R code faster\nRecommended Resources for AB testing\nGuidelines for AB testing\nDS Career Resources\nAdvice when applying to DS jobs\nWhat’s new with ML in production\nWhat is ML engineering\nThe ML toolset\n\nPlay/Personal\n\nThe Argentinian Secret Police\nRevisiting the Luddites\nHeroic Masculinity\nHaruspex\nThe Problem of Nature Writing\nHow America Got Mean\nThe Longest Relationships of Our Lives\nSibling Rivalry"
+  },
+  {
+    "objectID": "posts/about_lists/index.html",
+    "href": "posts/about_lists/index.html",
+    "title": "Keeping Lists",
+    "section": "",
+    "text": "To list or not to list…\nI’ve decided to keep a running list of things I want to come back to. Right now this is primarily going to contain articles, books, and videos broken down by whether they apply more to my work or personal lives.\nWhy am I doing this?\nI come across all sorts of great stuff on the internet that I plan to come back to but never do. Hopefully, having a list that’s online will help me remember to revisit some of those resources. To that end, I’ve come up with a simple key for informing readers like you on my progress and review of said resources. Find that below and let me know what you think.\nRight now, for work resources, my plan is to write a shorter review on 💎s and longer reviews on ⭐s. For ❤️s that particularly touch my heart I might write a very very short blurb. What about personal resources? I’m not quite sure yet. I think that’s going to function as much more of a personal list that you just happen to be able to see.\nDedicated to Craft,\nDami"
+  },
+  {
+    "objectID": "posts/about_lists/index.html#footnotes",
+    "href": "posts/about_lists/index.html#footnotes",
+    "title": "Keeping Lists",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nNo emojis with default skin-tone here!↩︎"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Straight Outta Brooklyn",
+    "section": "",
+    "text": "I decided to make a blog!\nFor quite a while I’ve been feeling stuck in my career and unsure about how to demonstrate and build my data-science skills. All the advice I’ve heard (and read) can be boiled down into variations of “do a personal project!!”. Macklin Flusher has this fantastic article about modern job searching. The article is worth a full read, but the TLDR is this:\nWell, I finally decided to follow Macklin’s advice (more on that later 😉), but then (because I can’t resist using one goal to achieve other goals 🤦🏾‍♂️) I decided to also build a blog to host that project.\nBut wait, what’s a blog? 🤔\nA blog is just a website with a reverse chronological order (newer content appears first) that can be indexed and syndicated on RSS feeds. Whereas many website pages are pretty static, because they are updated so frequently, blogs tend to be very dynamic.\nBut wait, why a blog? 🧐\nI’ve created a blog because I want to:\nSo, to summarize, I’m hoping to create a digital garden that helps me build a brand, shore up what I’m learning, and centralize information …  Sounds easy enough?! 😫\nSo, welcome to my blog shokunin … straight outta brooklyn.\nDedicated to Craft,\nDami"
+  },
+  {
+    "objectID": "posts/welcome/index.html#footnotes",
+    "href": "posts/welcome/index.html#footnotes",
+    "title": "Straight Outta Brooklyn",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nYou can find some more blogs I follow here↩︎\nLook out for these categories/tags to get an idea of what to expect from a post.↩︎"
+  },
+  {
+    "objectID": "lists/blogs/index.html",
+    "href": "lists/blogs/index.html",
+    "title": "Inspiring Blogs",
+    "section": "",
+    "text": "Here’s a list of DS and ML bloggers/blogs I follow. These bloggers speak to different aspects of DS and ML really well and I’d love to give them the flowers/credit they’re owed.\n\nEmily Riederer\nChip Huyen\nVicki Boykis\nEmily Fuhrman\nDanielle Navarro\nIsabella Velásquez’s pipe dreams\nEmily Robinson’s Hooked on Data"
+  },
+  {
+    "objectID": "lists/books/index.html",
+    "href": "lists/books/index.html",
+    "title": "Books",
+    "section": "",
+    "text": "A running list of books I’ve read, am reading, or am planning to read.\nTo find out more about why I’m doing this and what the symbols to the left of each book mean, check here.\nWork\nPlay/Personal\n\nNegotiating As If Your Life Depended On It\nDare to Lead"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "shokunin",
+    "section": "",
+    "text": "“All I want to do is make better sushi … I do the same thing over and over improving bit by bit. There is always a yearning to achieve more … I don’t think I’ve achieved perfection. But I feel ecstatic all day. I love making sushi. That’s the spirit of the Shokunin”\n\n\n\nI first came across the term ’shokunin’ while watching Midnight Asia — a Netflix docuseries about the nightlife of six east asian cities. In the Tokyo episode, we meet Rogerio, co-founder of one of Asia’s 50 best bars, who shares a profound insight: “To master your craft, you need to master yourself. In Japan there is a strong culture of shokunin … a person that is always pursuing to better his craft”.\nShokunin describes an orientation to work that emphasizes dedication to craft through exceptional technical skill and an unwavering quest for mastery. Jiro Ono, the star of ‘Jiro Dreams of Sushi’ and already a sushi master by every conventional standard, stands out and continues to passionately refine his craft because his aspiration is excellence itself. \nI’ve chosen to name this blog ‘shokunin’ to reflect my desire to apply this philosophy to the data science and machine learning work I share here. I want to build exceptional technical skills and pursue continual improvement in my craft and I’d be thrilled if you joined me for the ride.\nDedicated to craft,\nDami"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Keeping Lists\n\n\n\nnews\n\n\nlists\n\n\n\n\n\n\n\nDami\n\n\nJan 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStraight Outta Brooklyn\n\n\n\nnews\n\n\n\n\n\n\n\nDami\n\n\nJan 24, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/lists.html",
+    "items": [
+      "/lists/articles/index.html",
+      "/lists/books/index.html",
+      "/lists/blogs/index.html",
+      "/lists/videos/index.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/about_lists/index.html",
+      "/posts/welcome/index.html"
+    ]
+  }
+]
