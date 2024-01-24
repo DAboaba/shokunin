@@ -1,19 +1,19 @@
 [
   {
+    "listing": "/index.html",
+    "items": [
+      "/posts/welcome/index.html",
+      "/posts/about_shokunin/index.html",
+      "/posts/about_lists/index.html"
+    ]
+  },
+  {
     "listing": "/lists.html",
     "items": [
       "/lists/articles/index.html",
       "/lists/books/index.html",
       "/lists/blogs/index.html",
       "/lists/videos/index.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/posts/about_shokunin/index.html",
-      "/posts/about_lists/index.html",
-      "/posts/welcome/index.html"
     ]
   }
 ]
