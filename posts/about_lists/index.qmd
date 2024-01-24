@@ -1,0 +1,35 @@
+---
+title: "Keeping Lists"
+author: "Dami"
+date: "2024-01-24"
+categories: [news, lists]
+image: "image.png"
+---
+
+To list or not to list...
+
+I've decided to keep a running list of things I want to come back to. Right now this is primarily going to contain [articles](../../lists/articles/index.qmd), [books](../../lists/books/index.qmd), and [videos](../../lists/videos/index.qmd) broken down by whether they apply more to my work or personal lives.
+
+Why am I doing this?
+
+I come across all sorts of great stuff on the internet that I plan to come back to but never do. Hopefully, having a list that's online will help me remember to revisit some of those resources. To that end, I've come up with a simple key for informing readers like you on my progress and review of said resources. Find that below and let me know what you think.
+
+-   [ ] A resource I haven't gotten to
+
+-   [x] A resource I got to but didn't particularly rate
+
+-   👍🏾 A resource I got to and enjoyed/liked[^1]
+
+-   ❤️ A resource I got to and loved
+
+-   💎 A resource I got to and think says some memorable things
+
+-   ⭐ A resource I got to and never want to forget
+
+[^1]: No emojis with default skin-tone here!
+
+Right now, for work resources, my plan is to write a shorter review on 💎s and longer reviews on ⭐s. For ❤️s that particularly touch my heart I might write a very very short blurb. What about personal resources? I'm not quite sure yet. I think that's going to function as much more of a personal list that you just happen to be able to see.
+
+Dedicated to Craft,
+
+Dami

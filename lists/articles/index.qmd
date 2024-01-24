@@ -1,0 +1,70 @@
+---
+title: "Articles"
+author: "Dami"
+date: "2024-01-24"
+categories: [lists]
+---
+
+A running list of articles I've read, am reading, or am planning to read.
+
+To find out more about why I'm doing this and what the symbols to the left of each article mean, check [here](../../posts/about_lists/index.qmd).
+
+**Work**
+
+-   [ ] [Meta doing God's work](https://medium.com/@ignacio.de.gregorio.noblejas/meta-is-doing-gods-work-releases-shockingly-good-coding-models-to-the-world-848975e7d1f0)
+
+-   [ ] [Stop using histograms](https://towardsdatascience.com/6-reasons-why-you-should-stop-using-histograms-and-which-plot-you-should-use-instead-31f937a0a81c)
+
+-   [ ] [Data Fraud Allegations](https://www.theatlantic.com/science/archive/2023/08/gino-ariely-data-fraud-allegations/674891/#)
+
+-   [ ] [Getting Shit Done as a Software Engineer](https://careercutler.substack.com/p/how-to-get-done-as-a-software-engineer?utm_source=post-email-title&publication_id=1504485&post_id=140424691&utm_campaign=email-post-title&isFreemail=true&r=mwwv8&utm_medium=email)
+
+-   [ ] [How Uber finds nearby drivers](https://newsletter.systemdesign.one/p/how-does-uber-find-nearby-drivers?utm_source=post-email-title&publication_id=1511845&post_id=139367048&utm_campaign=email-post-title&isFreemail=true&r=mwwv8&utm_medium=email)
+
+-   [ ] [Mastering System Design](https://substack.com/@systemdesignone/note/c-46521743?utm_source=feed-email-digest)
+
+-   [ ] [Anomaly Detection in Time-Series Analysis](https://medium.com/aimonks/anomaly-detection-for-time-series-analysis-eeecd6282f53)
+
+-   [ ] [What is Good Code?](https://medium.com/@todbotts.triangles/what-is-good-bad-code-an-illustrated-example-for-non-programmers-1222b600a0f0)
+
+-   [ ] [Causal Machine Learning for Creative Insight](https://netflixtechblog.com/causal-machine-learning-for-creative-insights-4b0ce22a8a96)
+
+-   [ ] [How to Learn Deeply in Programming](https://lampmaa22.medium.com/the-key-to-learning-deeply-in-programming-c6085b25f072)
+
+-   [ ] [Pareto's Law in EDA Plots](https://medium.com/gdsc-babcock-dataverse/20-of-eda-plots-data-scientists-use-80-of-the-time-abe7b2ff5cc2)
+
+-   [ ] [Causal Machine Learning in Marketing](https://medium.com/@heinrichkoegel/causal-machine-learning-in-marketing-12dcd91ec24e)
+
+-   [ ] [Making R code faster](https://hookedondata.org/posts/2017-11-30_making-r-code-faster-a-case-study/)
+
+-   [ ] [Recommended Resources for AB testing](https://hookedondata.org/posts/2023-04-19-recommended-resources-for-ab-testing/)
+
+-   [ ] [Guidelines for AB testing](https://hookedondata.org/posts/2018-08-07_guidelines-for-a-b-testing/)
+
+-   [ ] [DS Career Resources](https://hookedondata.org/posts/2021-06-22_career-resources/)
+
+-   [ ] [Advice when applying to DS jobs](https://hookedondata.org/posts/2018-05-29_advice-for-applying-to-data-science-jobs/)
+
+-   [ ] [What's new with ML in production](https://vickiboykis.com/2024/01/15/whats-new-with-ml-in-production/)
+
+-   [ ] [What is ML engineering](https://newsletter.pragmaticengineer.com/p/what-is-ml-engineering)
+
+-   [ ] [The ML toolset](https://newsletter.pragmaticengineer.com/p/the-machine-learning-toolset)
+
+**Play/Personal**
+
+-   [ ] [The Argentinian Secret Police](https://www.economist.com/1843/2023/12/04/the-secret-police-killed-his-parents-then-one-of-them-adopted-him?utm_medium=social-media.content.np&utm_source=linkedin&utm_campaign=editorial-social&utm_content=discovery.content)
+
+-   [ ] [Revisiting the Luddites](https://www.smithsonianmag.com/history/what-the-luddites-really-fought-against-264412/)
+
+-   [ ] [Heroic Masculinity](https://www.theatlantic.com/ideas/archive/2023/08/heroic-toxic-masculinity-boys/675172/?utm_campaign=the-atlantic&utm_content=true-anthem&utm_medium=social&utm_source=linkedin)
+
+-   [ ] [Haruspex](https://granta.com/haruspex/?utm_source=Sailthru&utm_medium=email&utm_campaign=Lit%20Hub%20Daily:%20December%204%2C%202023&utm_term=lithub_master_list)
+
+-   [ ] [The Problem of Nature Writing](https://www.newyorker.com/culture/the-weekend-essay/the-problem-of-nature-writing?utm_source=Sailthru&utm_medium=email&utm_campaign=Lit%20Hub%20Daily:%20August%2014%2C%202023&utm_term=lithub_master_list)
+
+-   [ ] [How America Got Mean](https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/)
+
+-   [ ] [The Longest Relationships of Our Lives](https://www.theatlantic.com/family/archive/2023/08/sibling-relationships-change-adulthood/675027/)
+
+-   [ ] [Sibling Rivalry](https://www.theatlantic.com/magazine/archive/2018/11/the-science-of-sibling-rivalry/570811/)

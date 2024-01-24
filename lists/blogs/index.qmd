@@ -1,0 +1,22 @@
+---
+title: "Inspiring Blogs"
+author: "Dami"
+date: "2024-01-24"
+categories: [lists]
+---
+
+Here's a list of DS and ML bloggers/blogs I follow. These bloggers speak to different aspects of DS and ML really well and I'd love to give them the flowers/credit they're owed.
+
+-   [Emily Riederer](https://emilyriederer.netlify.app)
+
+-   [Chip Huyen](https://huyenchip.com)
+
+-   [Vicki Boykis](https://vickiboykis.com)
+
+-   [Emily Fuhrman](https://emilyfuhrman.co)
+
+-   [Danielle Navarro](https://djnavarro.net)
+
+-   [Isabella Velásquez's pipe dreams](https://ivelasq.rbind.io)
+
+-   [Emily Robinson's Hooked on Data](https://hookedondata.org)
