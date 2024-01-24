@@ -34,6 +34,8 @@ Future post ideas
 
     -   Turn it into a shiny app
 
+-   Write article on adding RSS feed and submitting blog to Rbloggers
+
 -   Signing up for Kent beck’s blog and using TDD at work
 
 -   Convert work code-and-tell presentations into blog posts

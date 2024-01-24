@@ -1,8 +1,8 @@
 ---
 title: "Books"
-author: "Dami"
 date: "2024-01-24"
 categories: [lists]
+citation: false
 ---
 
 A running list of books I've read, am reading, or am planning to read.
@@ -15,3 +15,4 @@ To find out more about why I'm doing this and what the symbols to the left of ea
 
 -   [ ] [Negotiating As If Your Life Depended On It](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2)
 -   [ ] [Dare to Lead](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520/ref=sr_1_1?crid=34IS30U4HC39Z&keywords=dare+to+lead+brene+brown&qid=1704491060&sprefix=dare+%2Caps%2C107&sr=8-1)
+
