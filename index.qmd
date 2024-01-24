@@ -1,5 +1,6 @@
 ---
-title: "Blog"
+title: "shokunin"
+subtitle: "A DS & ML blog by Damilare Aboaba"
 listing:
   contents: posts
   sort: "date desc"

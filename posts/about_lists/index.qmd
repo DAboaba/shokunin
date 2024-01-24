@@ -1,16 +1,16 @@
 ---
 title: "Keeping Lists"
-author: "Dami"
 date: "2024-01-24"
 categories: [news, lists]
 image: "image.png"
+citation: false
 ---
 
 To list or not to list...
 
 I've decided to keep a running list of things I want to come back to. Right now this is primarily going to contain [articles](../../lists/articles/index.qmd), [books](../../lists/books/index.qmd), and [videos](../../lists/videos/index.qmd) broken down by whether they apply more to my work or personal lives.
 
-Why am I doing this?
+### Why am I doing this?
 
 I come across all sorts of great stuff on the internet that I plan to come back to but never do. Hopefully, having a list that's online will help me remember to revisit some of those resources. To that end, I've come up with a simple key for informing readers like you on my progress and review of said resources. Find that below and let me know what you think.
 

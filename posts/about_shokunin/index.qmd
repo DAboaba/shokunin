@@ -1,10 +1,11 @@
 ---
 title: "Dedication to Craft"
 subtitle: "Notes on shokunin"
-author: "Dami"
 date: "2024-01-24"
 categories: [news, shokunin]
+description: "All I wanted to do is make better sushi ..."
 image: "image.jpg"
+citation: false
 ---
 
 ::: {.callout-note appearance="minimal"}
@@ -20,3 +21,4 @@ I’ve chosen to name this blog ‘shokunin’ to reflect my desire to apply thi
 Dedicated to craft,
 
 Dami
+

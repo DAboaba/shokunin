@@ -2,9 +2,9 @@
 title: "Straight Outta Brooklyn"
 subtitle: "Will blog for money ... or a better job - ruminations on why this exists"
 image: nwa.jpg
-author: "Dami"
 date: "2024-01-24"
 categories: [news]
+citation: false
 ---
 
 I decided to make a blog!
@@ -61,3 +61,4 @@ So, welcome to my blog [shokunin](../../index.qmd) ... straight outta brooklyn.
 Dedicated to Craft,
 
 Dami
+

@@ -6,3 +6,16 @@ freeze: true
 
 # Enable banner style title blocks
 title-block-banner: true
+
+# Default author
+author:
+    - name: Damilare Aboaba
+      url:  https://daboaba.github.io/shokunin/about.html
+
+# Default for table of contents
+toc: true
+toc-title: Table of contents
+toc-location: right
+
+# Default fields for citation
+citation: true
