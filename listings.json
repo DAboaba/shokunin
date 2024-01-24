@@ -9,8 +9,9 @@
     ]
   },
   {
-    "listing": "/posts.html",
+    "listing": "/index.html",
     "items": [
+      "/posts/about_shokunin/index.html",
       "/posts/about_lists/index.html",
       "/posts/welcome/index.html"
     ]
