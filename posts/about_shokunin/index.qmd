@@ -1,6 +1,6 @@
 ---
-title: "shokunin"
-subtitle: "Notes on Dedication to Craft"
+title: "Dedication to Craft"
+subtitle: "Notes on shokunin"
 author: "Dami"
 date: "2024-01-24"
 categories: [news, shokunin]
