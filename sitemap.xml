@@ -1,43 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://DAboaba.github.io/shokunin/posts/about_lists/index.html</loc>
-    <lastmod>2024-01-24T23:59:13.871Z</lastmod>
+    <loc>https://DAboaba.github.io/shokunin/posts/welcome/index.html</loc>
+    <lastmod>2024-01-27T17:11:27.246Z</lastmod>
   </url>
   <url>
-    <loc>https://DAboaba.github.io/shokunin/index.html</loc>
-    <lastmod>2024-01-24T23:59:13.867Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DAboaba.github.io/shokunin/about.html</loc>
-    <lastmod>2024-01-24T23:59:13.867Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DAboaba.github.io/shokunin/lists/articles/index.html</loc>
-    <lastmod>2024-01-24T23:59:13.871Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DAboaba.github.io/shokunin/lists/books/index.html</loc>
-    <lastmod>2024-01-24T23:59:13.871Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DAboaba.github.io/shokunin/lists/videos/index.html</loc>
-    <lastmod>2024-01-24T23:59:13.871Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DAboaba.github.io/shokunin/lists/blogs/index.html</loc>
-    <lastmod>2024-01-24T23:59:13.871Z</lastmod>
+    <loc>https://DAboaba.github.io/shokunin/posts/future_ideas/index.html</loc>
+    <lastmod>2024-01-27T17:11:27.242Z</lastmod>
   </url>
   <url>
     <loc>https://DAboaba.github.io/shokunin/lists.html</loc>
-    <lastmod>2024-01-24T23:59:13.867Z</lastmod>
+    <lastmod>2024-01-27T17:11:27.238Z</lastmod>
   </url>
   <url>
-    <loc>https://DAboaba.github.io/shokunin/posts/welcome/index.html</loc>
-    <lastmod>2024-01-24T23:59:13.871Z</lastmod>
+    <loc>https://DAboaba.github.io/shokunin/index.html</loc>
+    <lastmod>2024-01-27T17:11:27.238Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DAboaba.github.io/shokunin/lists/articles/index.html</loc>
+    <lastmod>2024-01-27T17:11:27.238Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DAboaba.github.io/shokunin/lists/ideas/index.html</loc>
+    <lastmod>2024-01-27T17:11:27.238Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DAboaba.github.io/shokunin/lists/videos/index.html</loc>
+    <lastmod>2024-01-27T17:11:27.238Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DAboaba.github.io/shokunin/lists/books/index.html</loc>
+    <lastmod>2024-01-27T17:11:27.238Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DAboaba.github.io/shokunin/lists/blogs/index.html</loc>
+    <lastmod>2024-01-27T17:11:27.238Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DAboaba.github.io/shokunin/about.html</loc>
+    <lastmod>2024-01-27T17:11:27.238Z</lastmod>
   </url>
   <url>
     <loc>https://DAboaba.github.io/shokunin/posts/about_shokunin/index.html</loc>
-    <lastmod>2024-01-24T23:59:13.871Z</lastmod>
+    <lastmod>2024-01-27T17:11:27.242Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DAboaba.github.io/shokunin/posts/about_lists/index.html</loc>
+    <lastmod>2024-01-27T17:11:27.242Z</lastmod>
   </url>
 </urlset>
