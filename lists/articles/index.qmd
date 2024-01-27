@@ -50,7 +50,36 @@ To find out more about why I'm doing this and what the symbols to the left of ea
 
 -   [ ] [The ML toolset](https://newsletter.pragmaticengineer.com/p/the-machine-learning-toolset)
 
-**Play/Personal**
+-   [ ] [Useful R functions](https://www.computerworld.com/article/3184778/6-useful-r-functions-you-might-not-know.html)
+
+-   [ ] [FUNctional programming tricks in httr](https://irene.rbind.io/post/fun-prog-httr/)
+
+-   [ ] [Explain XGBoost to me](https://towardsdatascience.com/xgboost-regression-explain-it-to-me-like-im-10-2cf324b0bbdb)
+
+-   [ ] [Visualizing Decision Trees](https://explained.ai/decision-tree-viz/index.html)
+
+-   [ ] [Column Names as Contracts](https://emilyriederer.netlify.app/post/column-name-contracts/)
+
+-   [ ] [Immutable Documentation](https://www.etsy.com/codeascraft/etsys-experiment-with-immutable-documentation)
+
+-   [ ] [Assertr](https://docs.ropensci.org/assertr/index.html)
+
+-   [ ] [Pointblank](https://github.com/rstudio/pointblank)
+
+-   [ ] [RMarkdown-driven Development](https://emilyriederer.netlify.app/post/rmarkdown-driven-development/)
+
+-   [ ] [Stacked Diffs](https://newsletter.pragmaticengineer.com/p/stacked-diffs?utm_source=substack&utm_medium=email)
+
+-   [ ] [The productivity impact of AI coding tools](https://newsletter.pragmaticengineer.com/p/ai-coding-tools?utm_source=substack&utm_medium=email)
+
+-   [ ] [Billion Row Challenge](https://ibis-project.org/posts/1brc/)
+
+-   [ ] [Quarto 1.4](https://quarto.org/docs/blog/posts/2024-01-24-1.4-release/)
+
+
+-   [ ] [Predicting Performance sans Control Group](https://towardsdatascience.com/predict-your-models-performance-without-waiting-for-the-control-group-3f5c9363a7da)
+
+**Personal**
 
 -   [ ] [The Argentinian Secret Police](https://www.economist.com/1843/2023/12/04/the-secret-police-killed-his-parents-then-one-of-them-adopted-him?utm_medium=social-media.content.np&utm_source=linkedin&utm_campaign=editorial-social&utm_content=discovery.content)
 
@@ -67,3 +96,27 @@ To find out more about why I'm doing this and what the symbols to the left of ea
 -   [ ] [The Longest Relationships of Our Lives](https://www.theatlantic.com/family/archive/2023/08/sibling-relationships-change-adulthood/675027/)
 
 -   [ ] [Sibling Rivalry](https://www.theatlantic.com/magazine/archive/2018/11/the-science-of-sibling-rivalry/570811/)
+
+-   [ ] [Cinematic Universes Aren't New](https://www.matthewball.vc/all/marveliadpart1)
+
+-   [ ] [Colonialism & Ancient Rome](https://aeon.co/essays/colonialism-is-built-on-the-rubble-of-a-false-idea-of-ancient-rome?utm_source=pocket-newtab)
+
+-   [ ] [Dissociative Identity Disorder](https://www.thecut.com/2021/08/dissociative-identity-disorder-youtube.html?utm_source=pocket-newtab)
+
+-   [ ] [Draining California Dry](https://www.technologyreview.com/2021/12/16/1041296/california-climate-change-water-drought/?truid=&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=&utm_content=12-16-2021&mc_cid=1ad26d8e48&mc_eid=ae849b3441)
+
+-   [ ] [Advice for Modern Parents](https://www.theatlantic.com/family/archive/2021/03/hunt-gather-parent-timeless-advice-for-modern-parents/618172/)
+
+-   [ ] [Wellness Review](https://www.theatlantic.com/books/archive/2023/10/wellness-nathan-hill/675657/)
+
+-   [ ] [Destigmatization](https://www.theatlantic.com/ideas/archive/2023/12/destigmatizing-drug-use-mistake-opioid-crisis/676292/)
+
+-   [ ] [Harm Reduction](https://www.theatlantic.com/ideas/archive/2023/06/harm-reduction-decriminalization-fentanyl-meth/674214/)
+
+-   [ ] [Decolonization](https://www.theatlantic.com/ideas/archive/2023/10/decolonization-narrative-dangerous-and-false/675799/?utm_campaign=the-atlantic&utm_content=true-anthem&utm_medium=social&utm_source=linkedin)
+
+-   [ ] [The Neighbors Who Destroyed Their Lives](https://www.theatlantic.com/ideas/archive/2023/12/schweitzers-brothers-murder-conviction-exoneration-hawaii/676910/?utm_campaign=the-atlantic&utm_content=true-anthem&utm_medium=social&utm_source=linkedin)
+
+-   [ ] [500 Days in a Cave](https://www.newyorker.com/magazine/2024/01/29/the-woman-who-spent-five-hundred-days-in-a-cave?utm_brand=tny&utm_social-type=owned&utm_medium=social&utm_source=linkedin)
+
+-   [ ] [Skull and Bones & Equity and Inclusion](https://www.theatlantic.com/ideas/archive/2024/01/yale-skull-and-bones-secret-societies-diversity/677030/?utm_campaign=the-atlantic&utm_content=true-anthem&utm_medium=social&utm_source=linkedin)
