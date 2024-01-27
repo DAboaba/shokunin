@@ -1,0 +1,115 @@
+---
+title: "Ideas"
+date: "2024-01-24"
+categories: [lists]
+---
+
+A running list of ideas for future blog posts and improvements. To read more about the motivation behind this, click [here](../../posts/future_ideas/index.qmd)
+
+##### Post Ideas
+
+-   Discuss how I made shokunin
+
+    -   **Title**: If you build it, will they come?
+
+    -   **Subtitle**: notes on building this data science blog via a meta-review of notes other people have made while building their blogs
+
+-   Explain analytical engineering (mentioned [here](../../about.qmd))
+
+-   Perform and Discuss MTA re-analysis
+
+    -   **Title**: To OMNY or not to OMNY
+
+    -   **Subtitle**: On using poisson distributions to save money
+
+    -   **Inspiration**: [Which is Better? OMNY or 30-Day Unlimited MetroCard?](https://medium.com/@macklinfluehr/which-is-better-omny-or-30-day-unlimited-metrocard-22293f51f009)
+
+    -   **Idea**: Driven by my benefits-election period, I try to figure out whether to use OMNY or a 30-Day Unlimited MetroCard
+
+    -   **Improvements vs inspiration**:
+
+        -   I update prices to reflect new MTA pricing
+
+        -   I account for inflation to reflect how time has passed
+
+        -   I use R (rather than python) and Quarto (rather than a jupyter notebook)
+
+-   Explain converting thesis to Quarto from RMarkdown
+
+-   Discuss my approach to learning
+
+-   Discuss and explain RMDD concept by using MTA re-analysis
+
+    -   **Title**: RMDD on MTA analysis
+
+    -   **Subtitle**: Using RMDD to turn the MTA analysis into a standalone package
+
+    -   **Inspiration**: [RMarkdown Driven Development](https://emilyriederer.netlify.app/post/rmarkdown-driven-development/)
+
+    -   **Idea**: I think RMDD is a brilliant concept and I'm curious to see if I can use it to bridge the gap between interactive analysis/reporting and fully reproducible, production-like code.
+
+-   Discuss signing up for Kent Beck’s blog and using TDD at work
+
+-   Discuss converting MTA package into a shiny app
+
+    -   **Title**: Figure out whether OMNY or the monthly unlimited is better for you
+
+    -   **Subtitle**: Converting a package into a shiny app
+
+    -   **Idea**: I haven't used shiny in a long time, but I think converting a relatively simple package into a web application will help resurrect old skills and build new ones.
+
+-   Discuss PostgreSQL API
+
+-   Discuss improving speed of R code
+
+    -   **Title**: That’s slower than I thought!
+
+    -   **Subtitle**: On doing one successful thing too many times
+
+    -   **Starting Quote**: The way you’d do something once is rarely the best way to do it 1000x - Quote from David Robinson
+
+    -   **Inspiring article**: [Making R Code Faster: A Case Study](https://hookedondata.org/posts/2017-11-30_making-r-code-faster-a-case-study/)
+
+    -   **Idea**: Driven by a situation at work where I’d written code that did something correctly once and then just attempted to map that code. Although it took a while. I came back to the repo ran it and was shocked that it ran much quicker than before. Turns out a senior colleague had changed one line (shown below). This is an attempt to figure out why it was so fast.
+
+-   Explain adding RSS feed and submitting blog to Rbloggers
+
+-   Discuss [Udemy's 100 days of code course](https://www.udemy.com/course/100-days-of-code/?gad_source=1&gclid=CjwKCAiA8NKtBhBtEiwAq5aX2J1oxQ1FsBhOWecgqrUu6bUG_-yKJalnpOU20pba9CfKfd5D1OH7LhoC1agQAvD_BwE&matchtype=b&utm_campaign=Python_Search_la.EN_cc.US_PP_Control&utm_content=deal4584&utm_medium=udemyads&utm_source=adwords&utm_term=_._ag_157608885513_._ad_682960868291_._kw_100+days+of+code_._de_c_._dm__._pl__._ti_aud-2268488108839%3Akwd-426491059186_._li_9004362_._pd__._)
+
+    -   **Idea**:
+
+        -   Explain why you started the course
+
+        -   Periodically update post with list of repositories where you’ve made cool things
+
+-   Make post about being careful about what you put in warnings
+
+    -   **Title**: The condition of man... is a condition of war of everyone against everyone
+
+    -   **Subtitle**: On taking care about how you define conditions
+
+    -   **Idea**: I was recently working on unit testing an API package and I could not get a unit test to pass despite modifying the function that was being tested and being absolutely sure the error message I expected was the one that was being thrown. Turns out that although the messages "looked" the same to the human eye, there was some regex weirdness happening.
+
+-   Discuss cool projects I've build through Udemy course
+
+-   Turn OTIL presentations into short blog posts
+
+-   Discuss cool presentations I've made
+
+##### Blog Improvements
+
+-   Add projects section
+
+    -   Add thesis and PostgreSQL API
+
+        -   Add thesis to github
+
+        -   Add API to github
+
+-   Add presentation section
+
+    -   Add code-and-tell presentations
+
+    -   Add datapalooza presentations
+
+-   Add RSS feed and submit blog to Rbloggers

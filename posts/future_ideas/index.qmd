@@ -1,49 +1,18 @@
 ---
 title: "Ideas"
-author: "Dami"
-date: "2024-01-15"
-categories:
-draft: true
+date: "2024-01-26"
+categories: [news, lists, ideas]
+image: "image.png"
 ---
 
-Future post ideas
+In a [previous post](../about_lists/index.qmd) I discussed keeping running lists of resources I want to come back to. In addition to these, I've decided to also keep a list of [future ideas](../../lists/ideas/index.qmd) for shokunin. Although I initially balked at the idea of posting my unfinished plans, I really do want shokunin to be a "place" where I can cultivate, refine, and share my interconnected thoughts and ideas.[^1] While I think I can cultivate and share my musings already, I think showing the process of refining an initial idea can only be done by showing different ideas at different stages of development. Additionally, I think keeping a list of future ideas can also act as an easy commitment device[^2].
 
--   How I made this blog
+[^1]: I discuss this more in [shokunin's inaugral post](../welcome/index.qmd)
 
--   Explain analytical engineering angle
+[^2]: defined as "a strategy or tool that is used to help people stick to a plan or decision, even when it may be tempting to deviate from it" by [The Behavioral Scientist](https://www.thebehavioralscientist.com/glossary/commitment-device#:~:text=A%20commitment%20device%20is%20a,follow%20through%20on%20their%20plans.)
 
--   API (once reviewed)
+So consider my list of future ideas an informal contract/promise about what's likely coming up for shokunin. That said, I make absolutely no promises about the quality and tidyness of those ideas. What I do promise is that the idea at the very top will always be those I'm currently spending the most time working on.
 
--   Add thesis to GitHub 
+Dedicated to craft,
 
--   Brushing up my Quarto
-
--   approach to learning
-
--   That’s slower than I thought! On doing one successful thing too many times (write after reading Emily Robinson’s article)
-
-    -   Quote from David Robinson - the way you’d do something once is rarely the best way to do it 1000x
-
-    -   Inspired by this post from Hooked on Data and driven by a situation at work where I’d written code that did something correctly once and then just attempted to map that code. Although it took a while. I came back to the repo ran it and was shocked that it ran much quicker than before. Turns out a senior colleague had changed one line (shown below). This is an attempt to figure out why it was so fast.
-
--   MTA analysis
-
-    -   Finish RMD of recreation of Macklin Fluehr's [analysis](https://medium.com/@macklinfluehr/which-is-better-omny-or-30-day-unlimited-metrocard-22293f51f009) by accounting for inflation
-
-    -   Discussing Emily Riederer's [RMDD concept](https://emilyriederer.netlify.app/post/rmarkdown-driven-development/) by turning the analysis into a more controlled RMD and then a package
-
-    -   Turn it into a shiny app
-
--   Write article on adding RSS feed and submitting blog to Rbloggers
-
--   Signing up for Kent beck’s blog and using TDD at work
-
--   Convert work code-and-tell presentations into blog posts
-
--   Convert work OTIL presentations into blog posts
-
--   Convert work datapalooza presentations into blog posts
-
--   Make post about 100 days of code, then begin pointing to repositories where you’ve made cool things and explaining the code 
-
--   Be careful about what you put in your warnings - on unit testing and how your tests can fail because of your poor understanding of regex
+Dami

@@ -1,6 +1,6 @@
 ---
 title: "Keeping Lists"
-date: "2024-01-24"
+date: "2024-01-25"
 categories: [news, lists]
 image: "image.png"
 citation: false
