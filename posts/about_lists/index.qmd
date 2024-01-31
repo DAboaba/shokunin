@@ -2,11 +2,13 @@
 title: "Keeping Lists"
 date: "2024-01-25"
 categories: [news, lists]
-image: "image.png"
+image: "glenn-carstens-peters-RLw-UC03Gwc-unsplash.jpg"
 citation: false
 ---
 
 To list or not to list...
+
+[![Photo by Glenn Carstens-Peters on Unsplash](glenn-carstens-peters-RLw-UC03Gwc-unsplash.jpg){fig-align="left"}](https://unsplash.com/photos/person-writing-bucket-list-on-book-RLw-UC03Gwc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 I've decided to keep a running list of things I want to come back to. Right now this is primarily going to contain [articles](../../lists/articles/index.qmd), [books](../../lists/books/index.qmd), and [videos](../../lists/videos/index.qmd) broken down by whether they apply more to my work or personal lives.
 
