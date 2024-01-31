@@ -3,6 +3,8 @@ title: "Ideas"
 date: "2024-01-26"
 categories: [news, lists, ideas]
 image: "image.png"
+description: "An exercise in expectation management"
+citation: false
 ---
 
 In a [previous post](../about_lists/index.qmd) I discussed keeping running lists of resources I want to come back to. In addition to these, I've decided to also keep a list of [future ideas](../../lists/ideas/index.qmd) for shokunin. Although I initially balked at the idea of posting my unfinished plans, I really do want shokunin to be a "place" where I can cultivate, refine, and share my interconnected thoughts and ideas.[^1] While I think I can cultivate and share my musings already, I think showing the process of refining an initial idea can only be done by showing different ideas at different stages of development. Additionally, I think keeping a list of future ideas can also act as an easy commitment device[^2].
