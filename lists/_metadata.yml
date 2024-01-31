@@ -11,3 +11,7 @@ title-block-banner: true
 author:
     - name: Damilare Aboaba
       url:  https://daboaba.github.io/shokunin/about.html
+
+comments:
+  giscus:
+    repo: DAboaba/shokunin

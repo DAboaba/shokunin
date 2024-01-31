@@ -19,3 +19,7 @@ toc-location: right
 
 # Default fields for citation
 citation: true
+
+comments:
+  giscus:
+    repo: DAboaba/shokunin
