@@ -4,13 +4,15 @@ subtitle: "Notes on shokunin"
 date: "2024-01-24"
 categories: [shokunin]
 description: "All I wanted to do is make better sushi ..."
-image: "image.jpg"
+image: "airam-dato-on-zFRn0okB5aw-unsplash.jpg"
 citation: false
 ---
 
 ::: {.callout-note appearance="minimal"}
 “All I want to do is make better sushi … I do the same thing over and over improving bit by bit. There is always a yearning to achieve more … I don’t think I’ve achieved perfection. But I feel ecstatic all day. I love making sushi. That’s the spirit of the Shokunin”
 :::
+
+[![Photo by Airam Dato-on on Unsplash](airam-dato-on-zFRn0okB5aw-unsplash.jpg){fig-align="center" width="667"}](https://unsplash.com/photos/a-piece-of-sushi-on-a-black-plate-on-a-wooden-table-zFRn0okB5aw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 I first came across the term ’shokunin’ while watching [Midnight Asia](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiq9Y6Jy_aDAxUeCTQIHfvLCssQFnoECFMQAQ&url=https%3A%2F%2Fwww.netflix.com%2Ftitle%2F81134160&usg=AOvVaw32hLs-4IhkC_KP3jTbcrgG&opi=89978449) — a Netflix docuseries about the nightlife of six east asian cities. In the Tokyo episode, we meet Rogerio, co-founder of one of Asia’s 50 best bars, who shares a profound insight: “To master your craft, you need to master yourself. In Japan there is a strong culture of shokunin … a person that is always pursuing to better his craft”.
 
