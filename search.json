@@ -1,82 +1,5 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Straight Outta Brooklyn",
-    "section": "",
-    "text": "I decided to make a blog!\nFor quite a while I’ve been feeling stuck in my career and unsure about how to demonstrate and build my data-science skills. All the advice I’ve heard (and read) can be boiled down into variations of “do a personal project!!”. Macklin Flusher has this fantastic article about modern job searching. The article is worth a full read, but the TLDR is this:\nWell, I finally decided to follow Macklin’s advice (more on that later 😉), but then (because I can’t resist using one goal to achieve other goals 🤦🏾‍♂️) I decided to also build a blog to host that project.\nBut wait, what’s a blog? 🤔\nA blog is just a website with a reverse chronological order (newer content appears first) that can be indexed and syndicated on RSS feeds. Whereas many website pages are pretty static, because they are updated so frequently, blogs tend to be very dynamic.\nBut wait, why a blog? 🧐\nI’ve created a blog because I want to:\nSo, to summarize, I’m hoping to create a digital garden that helps me build a brand, shore up what I’m learning, and centralize information …  Sounds easy enough?! 😫\nSo, welcome to my blog shokunin … straight outta brooklyn.\nDedicated to Craft,\nDami"
-  },
-  {
-    "objectID": "posts/welcome/index.html#footnotes",
-    "href": "posts/welcome/index.html#footnotes",
-    "title": "Straight Outta Brooklyn",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nYou can find some more blogs I follow here↩︎\nLook out for these categories/tags to get an idea of what to expect from a post.↩︎"
-  },
-  {
-    "objectID": "posts/future_ideas/index.html",
-    "href": "posts/future_ideas/index.html",
-    "title": "Ideas",
-    "section": "",
-    "text": "In a previous post I discussed keeping running lists of resources I want to come back to. In addition to these, I’ve decided to also keep a list of future ideas for shokunin. Although I initially balked at the idea of posting my unfinished plans, I really do want shokunin to be a “place” where I can cultivate, refine, and share my interconnected thoughts and ideas.1 While I think I can cultivate and share my musings already, I think showing the process of refining an initial idea can only be done by showing different ideas at different stages of development. Additionally, I think keeping a list of future ideas can also act as an easy commitment device2.\nSo consider my list of future ideas an informal contract/promise about what’s likely coming up for shokunin. That said, I make absolutely no promises about the quality and tidyness of those ideas. What I do promise is that the idea at the very top will always be those I’m currently spending the most time working on.\nDedicated to craft,\nDami"
-  },
-  {
-    "objectID": "posts/future_ideas/index.html#footnotes",
-    "href": "posts/future_ideas/index.html#footnotes",
-    "title": "Ideas",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nI discuss this more in shokunin’s inaugral post↩︎\ndefined as “a strategy or tool that is used to help people stick to a plan or decision, even when it may be tempting to deviate from it” by The Behavioral Scientist↩︎"
-  },
-  {
-    "objectID": "lists.html",
-    "href": "lists.html",
-    "title": "Lists",
-    "section": "",
-    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJan 24, 2024\n\n\nArticles\n\n\nDamilare Aboaba\n\n\n\n\nJan 24, 2024\n\n\nBooks\n\n\nDamilare Aboaba\n\n\n\n\nJan 24, 2024\n\n\nIdeas\n\n\nDamilare Aboaba\n\n\n\n\nJan 24, 2024\n\n\nInspiring Blogs\n\n\nDamilare Aboaba\n\n\n\n\nJan 24, 2024\n\n\nVideos\n\n\nDamilare Aboaba\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "shokunin",
-    "section": "",
-    "text": "Ideas\n\n\n\nnews\n\n\nlists\n\n\nideas\n\n\n\nAn exercise in expectation management\n\n\n\nDamilare Aboaba\n\n\nJan 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKeeping Lists\n\n\n\nnews\n\n\nlists\n\n\n\n\n\n\n\nDamilare Aboaba\n\n\nJan 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDedication to Craft\n\n\n\nshokunin\n\n\n\nAll I wanted to do is make better sushi …\n\n\n\nDamilare Aboaba\n\n\nJan 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStraight Outta Brooklyn\n\n\n\nnews\n\n\n\n\n\n\n\nDamilare Aboaba\n\n\nJan 24, 2024\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "lists/articles/index.html",
-    "href": "lists/articles/index.html",
-    "title": "Articles",
-    "section": "",
-    "text": "A running list of articles I’ve read, am reading, or am planning to read.\nTo find out more about why I’m doing this and what the symbols to the left of each article mean, check here.\nWork\n\nMeta doing God’s work\nStop using histograms\nData Fraud Allegations\nGetting Shit Done as a Software Engineer\nHow Uber finds nearby drivers\nMastering System Design\nAnomaly Detection in Time-Series Analysis\nWhat is Good Code?\nCausal Machine Learning for Creative Insight\nHow to Learn Deeply in Programming\nPareto’s Law in EDA Plots\nCausal Machine Learning in Marketing\nMaking R code faster\nRecommended Resources for AB testing\nGuidelines for AB testing\nDS Career Resources\nAdvice when applying to DS jobs\nWhat’s new with ML in production\nWhat is ML engineering\nThe ML toolset\nUseful R functions\nFUNctional programming tricks in httr\nExplain XGBoost to me\nVisualizing Decision Trees\nColumn Names as Contracts\nImmutable Documentation\nAssertr\nPointblank\nRMarkdown-driven Development\nStacked Diffs\nThe productivity impact of AI coding tools\nBillion Row Challenge\nQuarto 1.4\nPredicting Performance sans Control Group\n\nPersonal\n\nThe Argentinian Secret Police\nRevisiting the Luddites\nHeroic Masculinity\nHaruspex\nThe Problem of Nature Writing\nHow America Got Mean\nThe Longest Relationships of Our Lives\nSibling Rivalry\nCinematic Universes Aren’t New\nColonialism & Ancient Rome\nDissociative Identity Disorder\nDraining California Dry\nAdvice for Modern Parents\nWellness Review\nDestigmatization\nHarm Reduction\nDecolonization\nThe Neighbors Who Destroyed Their Lives\n500 Days in a Cave\nSkull and Bones & Equity and Inclusion"
-  },
-  {
-    "objectID": "lists/ideas/index.html",
-    "href": "lists/ideas/index.html",
-    "title": "Ideas",
-    "section": "",
-    "text": "A running list of ideas for future blog posts and improvements. To read more about the motivation behind this, click here\n\nPost Ideas\n\nDiscuss how I made shokunin\n\nTitle: If you build it, will they come?\nSubtitle: notes on building this data science blog via a meta-review of notes other people have made while building their blogs\n\nExplain analytical engineering (mentioned here)\nPerform and Discuss MTA re-analysis\n\nTitle: To OMNY or not to OMNY\nSubtitle: On using poisson distributions to save money\nInspiration: Which is Better? OMNY or 30-Day Unlimited MetroCard?\nIdea: Driven by my benefits-election period, I try to figure out whether to use OMNY or a 30-Day Unlimited MetroCard\nImprovements vs inspiration:\n\nI update prices to reflect new MTA pricing\nI account for inflation to reflect how time has passed\nI use R (rather than python) and Quarto (rather than a jupyter notebook)\n\n\nExplain converting thesis to Quarto from RMarkdown\nDiscuss my approach to learning\nDiscuss and explain RMDD concept by using MTA re-analysis\n\nTitle: RMDD on MTA analysis\nSubtitle: Using RMDD to turn the MTA analysis into a standalone package\nInspiration: RMarkdown Driven Development\nIdea: I think RMDD is a brilliant concept and I’m curious to see if I can use it to bridge the gap between interactive analysis/reporting and fully reproducible, production-like code.\n\nDiscuss signing up for Kent Beck’s blog and using TDD at work\nDiscuss converting MTA package into a shiny app\n\nTitle: Figure out whether OMNY or the monthly unlimited is better for you\nSubtitle: Converting a package into a shiny app\nIdea: I haven’t used shiny in a long time, but I think converting a relatively simple package into a web application will help resurrect old skills and build new ones.\n\nDiscuss PostgreSQL API\nDiscuss improving speed of R code\n\nTitle: That’s slower than I thought!\nSubtitle: On doing one successful thing too many times\nStarting Quote: The way you’d do something once is rarely the best way to do it 1000x - Quote from David Robinson\nInspiring article: Making R Code Faster: A Case Study\nIdea: Driven by a situation at work where I’d written code that did something correctly once and then just attempted to map that code. Although it took a while. I came back to the repo ran it and was shocked that it ran much quicker than before. Turns out a senior colleague had changed one line (shown below). This is an attempt to figure out why it was so fast.\n\nExplain adding RSS feed and submitting blog to Rbloggers\nDiscuss Udemy’s 100 days of code course\n\nIdea:\n\nExplain why you started the course\nPeriodically update post with list of repositories where you’ve made cool things\n\n\nMake post about being careful about what you put in warnings\n\nTitle: The condition of man… is a condition of war of everyone against everyone\nSubtitle: On taking care about how you define conditions\nIdea: I was recently working on unit testing an API package and I could not get a unit test to pass despite modifying the function that was being tested and being absolutely sure the error message I expected was the one that was being thrown. Turns out that although the messages “looked” the same to the human eye, there was some regex weirdness happening.\n\nDiscuss cool projects I’ve build through Udemy course\nTurn OTIL presentations into short blog posts\nDiscuss cool presentations I’ve made\n\n\n\nBlog Improvements\n\nAdd projects section\n\nAdd thesis and PostgreSQL API\n\nAdd thesis to github\nAdd API to github\n\n\nAdd presentation section\n\nAdd code-and-tell presentations\nAdd datapalooza presentations\n\nAdd RSS feed and submit blog to Rbloggers"
-  },
-  {
-    "objectID": "lists/videos/index.html",
-    "href": "lists/videos/index.html",
-    "title": "Videos",
-    "section": "",
-    "text": "A running list of videos I am reading, have read, or will read.\nTo find out more about why I’m doing this and what the symbols to the left of each video mean, check here."
-  },
-  {
-    "objectID": "lists/books/index.html",
-    "href": "lists/books/index.html",
-    "title": "Books",
-    "section": "",
-    "text": "A running list of books I’ve read, am reading, or am planning to read.\nTo find out more about why I’m doing this and what the symbols to the left of each book mean, check here.\nWork\nPersonal\n\nNegotiating As If Your Life Depended On It\nDare to Lead\nOn Getting Out of Bed\nShe Walked Before Us\nBiblical Critical Theory\nForgive\nOur Migrant Souls\nThe Message of Zechariah"
-  },
-  {
-    "objectID": "lists/blogs/index.html",
-    "href": "lists/blogs/index.html",
-    "title": "Inspiring Blogs",
-    "section": "",
-    "text": "Here’s a list of DS and ML bloggers/blogs I follow. These bloggers speak to different aspects of DS and ML really well and I’d love to give them the flowers/credit they’re owed.\n\nEmily Riederer\nChip Huyen\nVicki Boykis\nEmily Fuhrman\nDanielle Navarro\nIsabella Velásquez’s pipe dreams\nEmily Robinson’s Hooked on Data"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -91,11 +14,67 @@
     "text": "Footnotes\n\n\nIf you’re curious about my blog’s name, check this post↩︎"
   },
   {
+    "objectID": "posts/future_ideas/index.html",
+    "href": "posts/future_ideas/index.html",
+    "title": "Ideas",
+    "section": "",
+    "text": "Photo by Patrick Tomasso on Unsplash\nIn a previous post I discussed keeping running lists of resources I want to come back to. In addition to these, I’ve decided to also keep a list of future ideas for shokunin. Although I initially balked at the idea of posting my unfinished plans, I really do want shokunin to be a “place” where I can cultivate, refine, and share my interconnected thoughts and ideas.1 While I think I can cultivate and share my musings already, I think showing the process of refining an initial idea can only be done by showing different ideas at different stages of development. Additionally, I think keeping a list of future ideas can also act as an easy commitment device2.\nSo consider my list of future ideas an informal contract/promise about what’s likely coming up for shokunin. That said, I make absolutely no promises about the quality and tidyness of those ideas. What I do promise is that the idea at the very top will always be those I’m currently spending the most time working on.\nDedicated to craft,\nDami"
+  },
+  {
+    "objectID": "posts/future_ideas/index.html#footnotes",
+    "href": "posts/future_ideas/index.html#footnotes",
+    "title": "Ideas",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nI discuss this more in shokunin’s inaugral post↩︎\ndefined as “a strategy or tool that is used to help people stick to a plan or decision, even when it may be tempting to deviate from it” by The Behavioral Scientist↩︎"
+  },
+  {
     "objectID": "posts/about_shokunin/index.html",
     "href": "posts/about_shokunin/index.html",
     "title": "Dedication to Craft",
     "section": "",
-    "text": "“All I want to do is make better sushi … I do the same thing over and over improving bit by bit. There is always a yearning to achieve more … I don’t think I’ve achieved perfection. But I feel ecstatic all day. I love making sushi. That’s the spirit of the Shokunin”\n\n\n\nI first came across the term ’shokunin’ while watching Midnight Asia — a Netflix docuseries about the nightlife of six east asian cities. In the Tokyo episode, we meet Rogerio, co-founder of one of Asia’s 50 best bars, who shares a profound insight: “To master your craft, you need to master yourself. In Japan there is a strong culture of shokunin … a person that is always pursuing to better his craft”.\nShokunin describes an orientation to work that emphasizes dedication to craft through exceptional technical skill and an unwavering quest for mastery. Jiro Ono, the star of ‘Jiro Dreams of Sushi’ and already a sushi master by every conventional standard, stands out and continues to passionately refine his craft because his aspiration is excellence itself. \nI’ve chosen to name this blog ‘shokunin’ to reflect my desire to apply this philosophy to the data science and machine learning work I share here. I want to build exceptional technical skills and pursue continual improvement in my craft and I’d be thrilled if you joined me for the ride.\nDedicated to craft,\nDami"
+    "text": "“All I want to do is make better sushi … I do the same thing over and over improving bit by bit. There is always a yearning to achieve more … I don’t think I’ve achieved perfection. But I feel ecstatic all day. I love making sushi. That’s the spirit of the Shokunin”\n\n\n\n\n\n\nPhoto by Airam Dato-on on Unsplash\n\n\nI first came across the term ’shokunin’ while watching Midnight Asia — a Netflix docuseries about the nightlife of six east asian cities. In the Tokyo episode, we meet Rogerio, co-founder of one of Asia’s 50 best bars, who shares a profound insight: “To master your craft, you need to master yourself. In Japan there is a strong culture of shokunin … a person that is always pursuing to better his craft”.\nShokunin describes an orientation to work that emphasizes dedication to craft through exceptional technical skill and an unwavering quest for mastery. Jiro Ono, the star of ‘Jiro Dreams of Sushi’ and already a sushi master by every conventional standard, stands out and continues to passionately refine his craft because his aspiration is excellence itself. \nI’ve chosen to name this blog ‘shokunin’ to reflect my desire to apply this philosophy to the data science and machine learning work I share here. I want to build exceptional technical skills and pursue continual improvement in my craft and I’d be thrilled if you joined me for the ride.\nDedicated to craft,\nDami"
+  },
+  {
+    "objectID": "lists/videos/index.html",
+    "href": "lists/videos/index.html",
+    "title": "Videos",
+    "section": "",
+    "text": "A running list of videos I am reading, have read, or will read.\nTo find out more about why I’m doing this and what the symbols to the left of each video mean, check here."
+  },
+  {
+    "objectID": "lists/blogs/index.html",
+    "href": "lists/blogs/index.html",
+    "title": "Inspiring Blogs",
+    "section": "",
+    "text": "Here’s a list of DS and ML bloggers/blogs I follow. These bloggers speak to different aspects of DS and ML really well and I’d love to give them the flowers/credit they’re owed.\n\nEmily Riederer\nChip Huyen\nVicki Boykis\nEmily Fuhrman\nDanielle Navarro\nIsabella Velásquez’s pipe dreams\nEmily Robinson’s Hooked on Data"
+  },
+  {
+    "objectID": "lists/books/index.html",
+    "href": "lists/books/index.html",
+    "title": "Books",
+    "section": "",
+    "text": "A running list of books I’ve read, am reading, or am planning to read.\nTo find out more about why I’m doing this and what the symbols to the left of each book mean, check here.\nWork\nPersonal\n\nNegotiating As If Your Life Depended On It\nDare to Lead\nOn Getting Out of Bed\nShe Walked Before Us\nBiblical Critical Theory\nForgive\nOur Migrant Souls\nThe Message of Zechariah"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "shokunin",
+    "section": "",
+    "text": "Ideas\n\n\n\nnews\n\n\nlists\n\n\nideas\n\n\n\nAn exercise in expectation management\n\n\n\nDamilare Aboaba\n\n\nJan 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKeeping Lists\n\n\n\nnews\n\n\nlists\n\n\n\n\n\n\n\nDamilare Aboaba\n\n\nJan 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDedication to Craft\n\n\n\nshokunin\n\n\n\nAll I wanted to do is make better sushi …\n\n\n\nDamilare Aboaba\n\n\nJan 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStraight Outta Brooklyn\n\n\n\nnews\n\n\n\n\n\n\n\nDamilare Aboaba\n\n\nJan 24, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "lists/ideas/index.html",
+    "href": "lists/ideas/index.html",
+    "title": "Ideas",
+    "section": "",
+    "text": "A running list of ideas for future blog posts and improvements. To read more about the motivation behind this, click here\n\nPost Ideas\n\nDiscuss how I made shokunin\n\nTitle: If you build it, will they come?\nSubtitle: notes on building this data science blog via a meta-review of notes other people have made while building their blogs\n\nExplain analytical engineering (mentioned here)\nPerform and Discuss MTA re-analysis\n\nTitle: To OMNY or not to OMNY\nSubtitle: On using poisson distributions to save money\nInspiration: Which is Better? OMNY or 30-Day Unlimited MetroCard?\nIdea: Driven by my benefits-election period, I try to figure out whether to use OMNY or a 30-Day Unlimited MetroCard\nImprovements vs inspiration:\n\nI update prices to reflect new MTA pricing\nI account for inflation to reflect how time has passed\nI use R (rather than python) and Quarto (rather than a jupyter notebook)\n\n\nExplain converting thesis to Quarto from RMarkdown\nDiscuss my approach to learning\nDiscuss and explain RMDD concept by using MTA re-analysis\n\nTitle: RMDD on MTA analysis\nSubtitle: Using RMDD to turn the MTA analysis into a standalone package\nInspiration: RMarkdown Driven Development\nIdea: I think RMDD is a brilliant concept and I’m curious to see if I can use it to bridge the gap between interactive analysis/reporting and fully reproducible, production-like code.\n\nDiscuss signing up for Kent Beck’s blog and using TDD at work\nDiscuss converting MTA package into a shiny app\n\nTitle: Figure out whether OMNY or the monthly unlimited is better for you\nSubtitle: Converting a package into a shiny app\nIdea: I haven’t used shiny in a long time, but I think converting a relatively simple package into a web application will help resurrect old skills and build new ones.\n\nDiscuss PostgreSQL API\nDiscuss improving speed of R code\n\nTitle: That’s slower than I thought!\nSubtitle: On doing one successful thing too many times\nStarting Quote: The way you’d do something once is rarely the best way to do it 1000x - Quote from David Robinson\nInspiring article: Making R Code Faster: A Case Study\nIdea: Driven by a situation at work where I’d written code that did something correctly once and then just attempted to map that code. Although it took a while. I came back to the repo ran it and was shocked that it ran much quicker than before. Turns out a senior colleague had changed one line (shown below). This is an attempt to figure out why it was so fast.\n\nExplain adding RSS feed and submitting blog to Rbloggers\nDiscuss Udemy’s 100 days of code course\n\nIdea:\n\nExplain why you started the course\nPeriodically update post with list of repositories where you’ve made cool things\n\n\nMake post about being careful about what you put in warnings\n\nTitle: The condition of man… is a condition of war of everyone against everyone\nSubtitle: On taking care about how you define conditions\nIdea: I was recently working on unit testing an API package and I could not get a unit test to pass despite modifying the function that was being tested and being absolutely sure the error message I expected was the one that was being thrown. Turns out that although the messages “looked” the same to the human eye, there was some regex weirdness happening.\n\nDiscuss cool projects I’ve build through Udemy course\nTurn OTIL presentations into short blog posts\nDiscuss cool presentations I’ve made\n\n\n\nBlog Improvements\n\nAdd projects section\n\nAdd thesis and PostgreSQL API\n\nAdd thesis to github\nAdd API to github\n\n\nAdd presentation section\n\nAdd code-and-tell presentations\nAdd datapalooza presentations\n\nAdd RSS feed and submit blog to Rbloggers"
+  },
+  {
+    "objectID": "lists/articles/index.html",
+    "href": "lists/articles/index.html",
+    "title": "Articles",
+    "section": "",
+    "text": "A running list of articles I’ve read, am reading, or am planning to read.\nTo find out more about why I’m doing this and what the symbols to the left of each article mean, check here.\nWork\n\nMeta doing God’s work\nStop using histograms\nData Fraud Allegations\nGetting Shit Done as a Software Engineer\nHow Uber finds nearby drivers\nMastering System Design\nAnomaly Detection in Time-Series Analysis\nWhat is Good Code?\nCausal Machine Learning for Creative Insight\nHow to Learn Deeply in Programming\nPareto’s Law in EDA Plots\nCausal Machine Learning in Marketing\nMaking R code faster\nRecommended Resources for AB testing\nGuidelines for AB testing\nDS Career Resources\nAdvice when applying to DS jobs\nWhat’s new with ML in production\nWhat is ML engineering\nThe ML toolset\nUseful R functions\nFUNctional programming tricks in httr\nExplain XGBoost to me\nVisualizing Decision Trees\nColumn Names as Contracts\nImmutable Documentation\nAssertr\nPointblank\nRMarkdown-driven Development\nStacked Diffs\nThe productivity impact of AI coding tools\nBillion Row Challenge\nQuarto 1.4\nPredicting Performance sans Control Group\n\nPersonal\n\nThe Argentinian Secret Police\nRevisiting the Luddites\nHeroic Masculinity\nHaruspex\nThe Problem of Nature Writing\nHow America Got Mean\nThe Longest Relationships of Our Lives\nSibling Rivalry\nCinematic Universes Aren’t New\nColonialism & Ancient Rome\nDissociative Identity Disorder\nDraining California Dry\nAdvice for Modern Parents\nWellness Review\nDestigmatization\nHarm Reduction\nDecolonization\nThe Neighbors Who Destroyed Their Lives\n500 Days in a Cave\nSkull and Bones & Equity and Inclusion"
   },
   {
     "objectID": "posts/about_lists/index.html",
@@ -110,5 +89,26 @@
     "title": "Keeping Lists",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nNo emojis with default skin-tone here!↩︎"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Straight Outta Brooklyn",
+    "section": "",
+    "text": "I decided to make a blog!\nFor quite a while I’ve been feeling stuck in my career and unsure about how to demonstrate and build my data-science skills. All the advice I’ve heard (and read) can be boiled down into variations of “do a personal project!!”. Macklin Flusher has this fantastic article about modern job searching. The article is worth a full read, but the TLDR is this:\nWell, I finally decided to follow Macklin’s advice (more on that later 😉), but then (because I can’t resist using one goal to achieve other goals 🤦🏾‍♂️) I decided to also build a blog to host that project.\nBut wait, what’s a blog? 🤔\nA blog is just a website with a reverse chronological order (newer content appears first) that can be indexed and syndicated on RSS feeds. Whereas many website pages are pretty static, because they are updated so frequently, blogs tend to be very dynamic.\nBut wait, why a blog? 🧐\nI’ve created a blog because I want to:\nSo, to summarize, I’m hoping to create a digital garden that helps me build a brand, shore up what I’m learning, and centralize information …  Sounds easy enough?! 😫\nSo, welcome to my blog shokunin … straight outta brooklyn.\nDedicated to Craft,\nDami"
+  },
+  {
+    "objectID": "posts/welcome/index.html#footnotes",
+    "href": "posts/welcome/index.html#footnotes",
+    "title": "Straight Outta Brooklyn",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nYou can find some more blogs I follow here↩︎\nLook out for these categories/tags to get an idea of what to expect from a post.↩︎"
+  },
+  {
+    "objectID": "lists.html",
+    "href": "lists.html",
+    "title": "Lists",
+    "section": "",
+    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJan 24, 2024\n\n\nArticles\n\n\nDamilare Aboaba\n\n\n\n\nJan 24, 2024\n\n\nBooks\n\n\nDamilare Aboaba\n\n\n\n\nJan 24, 2024\n\n\nIdeas\n\n\nDamilare Aboaba\n\n\n\n\nJan 24, 2024\n\n\nInspiring Blogs\n\n\nDamilare Aboaba\n\n\n\n\nJan 24, 2024\n\n\nVideos\n\n\nDamilare Aboaba\n\n\n\n\n\nNo matching items"
   }
 ]
