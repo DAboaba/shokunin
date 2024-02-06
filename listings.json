@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/analysis_engineering/index.html",
       "/posts/future_ideas/index.html",
       "/posts/about_lists/index.html",
       "/posts/about_shokunin/index.html",
