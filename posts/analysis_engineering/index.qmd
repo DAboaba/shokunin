@@ -1,0 +1,53 @@
+---
+title: "Analysis Engineering"
+date: "2024-02-06"
+categories: [ideas, explainers, analysis-engineering]
+description: "Thoughts on what I really do"
+image: "thisisengineering-raeng-64YrPKiguAE-unsplash.jpg"
+---
+
+[![Photo by ThisisEngineering RAEng on Unsplash](thisisengineering-raeng-64YrPKiguAE-unsplash.jpg){fig-align="center"}](https://unsplash.com/photos/woman-in-green-shirt-sitting-in-front-of-computer-64YrPKiguAE?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash)
+
+I’ve been working on a post about how I built my DS/ML blog, but I’m a perfectionist (and I’m new to this) so it’s taking me some time to write a post I’m happy with. That said, I do want to build a habit of posting regularly, so I decided to do a “shorter” piece on something I think about a lot … my job title.
+
+### Simple Questions and Unclear Answers
+
+In a city like New York, I’m often asked what I do for a living. On the surface, the answer is pretty simple - I work as a policy research analyst at a nonprofit research do-tank. After spending years telling people that simple answer, watching a look of befuddlement creep onto their face, and then trying to explain my job title before their eyes fully glaze over, I’ve come up with a simpler (but more involved) description - I’m basically a lab assistant for real-world, quasi-experiments.
+
+Like a lab assistant in a hard-science lab, I implement parts of broader research agendas set by more senior researchers (usually professors and/or PHDs). I then report results in a way that best informs the broader research question. However, because I work for researchers looking into issues where traditional experiments are impossible and/or unethical, rather than using beakers and pipettes to run experiments and generate data that I then analyze, I instead analyze observational data[^1] using scientific-computing languages.
+
+[^1]: `data that comes from real-world processes rather than the controlled circumstances of an experiment`{=html}
+
+My simpler explanation leverages that lab-assistant analogy to help people understand my day job, but whenever I deploy it I’m reminded that my job description doesn’t do me any favors. In particular, I spend so much time trying to help people understand what I do that I never get to the point of describing the unique challenges that have shaped how I approach my role. So I’m going to try to do a bit of that below.
+
+### Naive Assumptions and Unexpected Problems
+
+I originally came in thinking that I would do exactly what I had done for my MSc thesis - write code to analyze data, the end 😂. It didn’t take long for me to realize how naive an idea this was. But that realization didn’t necessarily come about because someone showed me the right way to do things. Instead, it came about because the nature of my work was different enough from the kinds of individual one-off analysis I had done in the past and was very familiar with that I quickly ran into problems that my existing practices, techniques, and tools couldn’t solve.
+
+These problems (problems of collaboration, maintainability, scalability, reproducibility, replicability, and efficiency) often kept me awake late at night wondering if the work I had done was actually good enough. Crucially, I almost never worried about whether my analysis was good enough. Once I figured out how to implement a given research agenda, the analysis (the bit I’d been trained to do) was often trivially easy. It was everything else - things that more senior researchers didn’t really think about, hadn’t been trained to think about, and I was quickly realizing I was being paid (or more accurately underpaid 🫢) to think about - that worried me.
+
+So how did I solve these problems? Naturally, I did what I was told to do when I first began programming - I googled, I read, and I borrowed very very liberally from other people’s code. Over time, as I began to find solutions to these problems[^2], the way I approached my work fundamentally changed. I stopped thinking about analysis as a one-off exploration that just happens to be done with code and started thinking about results **and** code as products in and of themselves.
+
+[^2]: I’m definitely considering making future posts that talk about these solutions - look for them under the "analysis-engineering" tag
+
+### Software engineering by another name
+
+I began to realize that my actual job was creating data products (analytical engines calibrated to answer specific question)[^3] for more senior researchers (and other stakeholders) using code. The more I approached my work this way, the more I realized that software engineers had encountered and solved (or mitigated) many of the problems I thought were novel, the more I adopted best practices from software engineering, and the more I began to realize that I was actually doing was ... software engineering. Put differently, I saw that I used the same tools as engineers, and found that adopting similar practices as engineers solved the problems I was encountering, so there was a high chance that my job had been horribly miscast. I was called a research analyst, but what I had been doing this whole time was a version of software engineering.
+
+[^3]: [`Emily Reiderer`{=html}](https://emilyriederer.netlify.app/about)` used and defined this term in a way that firmly lodged it in my conscious unconscious`{=html}
+
+To be sure, there was something "unique" about this small kingdom of engineering. Effectively, it’s leading citizens had convinced themselves they lived in a completely different kind of kingdom so, to the detriment of less powerful citizens as well as the kingdom as a whole, they saw no value in and consequently refused to adopt and promote the practices/policies that similar, more clear-eyed kingdoms had developed and used to their advantage. Fortunately, less powerful citizens (like myself) who had begun to see just how similar our kingdom is to other (much cooler) kingdoms realized that, as long as we continued to deliver the requested results (because our betters worshiped the final results table as the greatest and most holy totem), we could secretly continue working on what really mattered - approaching the entire analysis as the software engineering exercise it was.[^4]
+
+[^4]: Yes! This is me working out my frustrations through a "cleverly" disguised story 😉
+
+In a word, I realized that my work is actually analysis engineering (applying statistical understanding **AND** the engineering design process to design, develop, test, maintain, and evaluate analysis code/software[^5]) and approaching it as such has made my work life much much easier. Unsurprisingly, this isn't an oiginal idea. In fact, several other people have been thinking and writing about this same idea for a while. For instance, the analysis-engineering approach is a core building block of Emily Riederer’s [RMarkdown Driven Development workflow](https://emilyriederer.netlify.app/post/rmarkdown-driven-development/). Similarly, in a fantastic [PeerJ preprint](https://peerj.com/preprints/3210/) that is absolutely worth a full read[^6], [Hilary Parker](https://hilaryparker.com) argues that, given its complexity and likelihood of error, modern analysis engineering has come to a point where encouraging (and teaching) the use of methods and tooling that push users to adopt recognized best-practices (particularly those that guard against error during the technical creation of an analysis) is not just possible but actually necessary so that analysts can more easily and naturally create work that is reproducible, accurate, and collaborative. By so doing, analysts will be freed up to focus on (and be more productive in) the actual analysis rather than focusing on not making common, avoidable, time-consuming mistakes.
+
+[^5]: Borrowed and modified very liberally from Google's definition of software engineering
+
+[^6]: It was so good that I’ll likely continue referencing it in the analysis-engineering series.
+
+That’s why I think my job title is misleading and [why I say I actually do analysis engineering](../../about.qmd) 🤷🏾‍♂️.
+
+Dedicated to craft,
+
+Dami

@@ -74,10 +74,31 @@ To find out more about why I'm doing this and what the symbols to the left of ea
 
 -   [ ] [Billion Row Challenge](https://ibis-project.org/posts/1brc/)
 
--   [ ] [Quarto 1.4](https://quarto.org/docs/blog/posts/2024-01-24-1.4-release/)
-
-
 -   [ ] [Predicting Performance sans Control Group](https://towardsdatascience.com/predict-your-models-performance-without-waiting-for-the-control-group-3f5c9363a7da)
+
+-   [ ] [Frequentists, Bayesians, and Epistemologists](https://vwo.com/stats-blog/the-frequentists-the-bayesians-and-the-epistemologists/)
+
+-   [ ] [How to Build a Data Warehouse in 3 Hours or Less](https://daydream.co/blog/data-shelf-how-to-build-a-data-warehouse-in-3-hours-or-less)
+
+-   [ ] [Many Data Scientists overuse ML and neglect Mathematical Optimisation](https://towardsdatascience.com/stop-overusing-scikit-learn-and-try-or-tools-instead-796d18fc6d85)
+
+-   [ ] [How I’d Learn Machine Learning (If I Could Start Over)](https://towardsdatascience.com/how-id-learn-machine-learning-if-i-could-start-over-c68d697e6a8a)
+
+-   [ ] [Simple and advanced imputation](https://medium.com/@hhuseyincosgun/dealing-with-missing-data-from-zero-to-advanced-4fb734ee5998)
+
+-   [ ] [Stripe Radar](https://stripe.com/blog/how-we-built-it-stripe-radar)
+
+-   [ ] [The Average is Pretty Rare](https://medium.com/@alexobidiegwu/these-greek-math-concepts-are-why-90-of-data-scientists-fail-b3ebcadfa762)
+
+-   [ ] [Staying Up to Date with AI](https://towardsdatascience.com/how-i-stay-up-to-date-with-ai-as-a-data-scientist-4dd6c9b3fb2c)
+
+-   [ ] [Stacked Diffs](https://newsletter.pragmaticengineer.com/p/stacked-diffs?utm_source=substack&utm_medium=email)
+
+-   [ ] [How 0.1% Companies Do Hyperscaling](https://newsletter.systemdesign.one/p/cell-based-architecture?utm_source=post-email-title&publication_id=1511845&post_id=140890481&utm_campaign=email-post-title&isFreemail=true&r=mwwv8&utm_medium=email)
+
+-   [ ] [55 Million Requests per Second With Only 15 Postgres Clusters](https://newsletter.systemdesign.one/p/postgresql-scalability?utm_source=post-email-title&publication_id=1511845&post_id=140362895&utm_campaign=email-post-title&isFreemail=true&r=mwwv8&utm_medium=email)
+
+-   [ ] [Opinionated Analysis Development](https://peerj.com/preprints/3210/)
 
 **Personal**
 
@@ -120,3 +141,7 @@ To find out more about why I'm doing this and what the symbols to the left of ea
 -   [ ] [500 Days in a Cave](https://www.newyorker.com/magazine/2024/01/29/the-woman-who-spent-five-hundred-days-in-a-cave?utm_brand=tny&utm_social-type=owned&utm_medium=social&utm_source=linkedin)
 
 -   [ ] [Skull and Bones & Equity and Inclusion](https://www.theatlantic.com/ideas/archive/2024/01/yale-skull-and-bones-secret-societies-diversity/677030/?utm_campaign=the-atlantic&utm_content=true-anthem&utm_medium=social&utm_source=linkedin)
+
+-   [ ] [Adopting a Legacy mind-set](https://www.washingtonpost.com/wellness/2024/01/14/legacy-building-ideas/?utm_campaign=wp_post_most&utm_medium=email&utm_source=newsletter&wpisrc=nl_most)
+
+-   [ ] [The super-rich are trying new approaches to philanthropy](https://www.economist.com/special-report/2024/01/10/the-super-rich-are-trying-new-approaches-to-philanthropy)

@@ -14,7 +14,7 @@ about:
 
 Hello 👋🏾 and welcome to shokunin!
 
-My name is Damilare (a.k.a Dami) and I’m currently a research analyst (really an analytic engineer) \@ a do-tank that tests, scales, and implements promising solutions to urban problems. I am an economist by training, a programmer by accident, and a data scientist at heart. 
+My name is Damilare (a.k.a Dami) and I’m currently a research analyst (who really does [analysis engineering](posts/analysis_engineering/index.qmd)) \@ a do-tank that tests, scales, and implements promising solutions to urban problems. I am an economist by training, a programmer by accident, and a data scientist at heart. 
 
 I’ve heard data scientists described as people who are better statisticians than most software engineers and better software engineers than most statisticians, and I've never felt more seen 😂.
 
