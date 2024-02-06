@@ -14,7 +14,17 @@ A running list of ideas for future blog posts and improvements. To read more abo
 
     -   **Subtitle**: notes on building this data science blog via a meta-review of notes other people have made while building their blogs
 
--   Explain analytical engineering (mentioned [here](../../about.qmd))
+-   Discuss the how and why of power calculations
+
+    -   **Title**: I have the power
+
+    -   **Title**: Notes on how you too can (by the power of simulation) … have (the) power!!!
+
+    -   Picture of he-man
+
+-   Look into [Quarto 1.4](https://quarto.org/docs/blog/posts/2024-01-24-1.4-release/) and [manuscripts](https://quarto.org/docs/manuscripts/) as the document driving posts
+
+-   Explain analysis engineering (originally mentioned [here](../../about.qmd), now done here)
 
 -   Perform and Discuss MTA re-analysis
 
@@ -97,6 +107,8 @@ A running list of ideas for future blog posts and improvements. To read more abo
 -   Discuss cool presentations I've made
 
 ##### Blog Improvements
+
+-   Add last updated functionality
 
 -   Add projects section
 
