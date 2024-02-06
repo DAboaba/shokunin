@@ -61,4 +61,3 @@ So, welcome to my blog [shokunin](../../index.qmd) ... straight outta brooklyn.
 Dedicated to Craft,
 
 Dami
-
