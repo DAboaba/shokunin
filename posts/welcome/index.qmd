@@ -1,15 +1,15 @@
 ---
 title: "Straight Outta Brooklyn"
-subtitle: "Will blog for money ... or a better job - ruminations on why this exists"
+subtitle: "Will blog for money ... ruminations on why this exists"
 image: nwa.jpg
-date: "2024-01-24"
+date: "2024-01-23"
 categories: [news]
 citation: false
 ---
 
 I decided to make a blog!
 
-For quite a while I’ve been feeling stuck in my career and unsure about how to demonstrate and build my data-science skills. All the advice I’ve heard (and read) can be boiled down into variations of “do a personal project!!”. [Macklin Flusher](https://medium.com/@macklinfluehr) has this [fantastic article](https://medium.com/@macklinfluehr/the-modern-job-search-hasnt-gotten-harder-47148b6bd479) about modern job searching. The article is worth a full read, but the TLDR is this:
+For quite a while I’ve been feeling stuck in my career and unsure about how to demonstrate and build my data-science skills. All the advice I’ve heard (and read) can be boiled down into variations of “do a personal project!!”. [Macklin Flusher](https://medium.com/@macklinfluehr) has this [fantastic article](https://medium.com/@macklinfluehr/the-modern-job-search-hasnt-gotten-harder-47148b6bd479) about modern job searching. The article is worth a full read, but here's the TLDR:
 
 ::: {.callout-note appearance="minimal" icon="false"}
 “The new networking is Project Work. If you want a job, you are going to have to show them you can do it”.
