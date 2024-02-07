@@ -1,15 +1,5 @@
 [
   {
-    "listing": "/index.html",
-    "items": [
-      "/posts/analysis_engineering/index.html",
-      "/posts/future_ideas/index.html",
-      "/posts/about_lists/index.html",
-      "/posts/about_shokunin/index.html",
-      "/posts/welcome/index.html"
-    ]
-  },
-  {
     "listing": "/lists.html",
     "items": [
       "/lists/articles/index.html",
@@ -17,6 +7,16 @@
       "/lists/ideas/index.html",
       "/lists/blogs/index.html",
       "/lists/videos/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/analysis_engineering/index.html",
+      "/posts/future_ideas/index.html",
+      "/posts/about_lists/index.html",
+      "/posts/about_shokunin/index.html",
+      "/posts/welcome/index.html"
     ]
   }
 ]
