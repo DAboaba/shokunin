@@ -7,6 +7,8 @@ categories: [news]
 citation: false
 ---
 
+![](nwa.jpg){fig-align="center"}
+
 I decided to make a blog!
 
 For quite a while I’ve been feeling stuck in my career and unsure about how to demonstrate and build my data-science skills. All the advice I’ve heard (and read) can be boiled down into variations of “do a personal project!!”. [Macklin Flusher](https://medium.com/@macklinfluehr) has this [fantastic article](https://medium.com/@macklinfluehr/the-modern-job-search-hasnt-gotten-harder-47148b6bd479) about modern job searching. The article is worth a full read, but here's the TLDR:
@@ -55,8 +57,6 @@ I've created a blog because I want to:
 So, to summarize, I’m hoping to create a digital garden that helps me build a brand, shore up what I’m learning, and centralize information …  Sounds easy enough?! 😫
 
 So, welcome to my blog [shokunin](../../index.qmd) ... straight outta brooklyn.
-
-![](nwa.jpg)
 
 Dedicated to Craft,
 
