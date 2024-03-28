@@ -4,6 +4,7 @@ date: "2024-02-06"
 categories: [ideas, explainers, analysis-engineering]
 description: "Thoughts on what I really do"
 image: "thisisengineering-raeng-64YrPKiguAE-unsplash.jpg"
+toc: false
 ---
 
 [![Photo by ThisisEngineering RAEng on Unsplash](thisisengineering-raeng-64YrPKiguAE-unsplash.jpg){fig-align="center"}](https://unsplash.com/photos/woman-in-green-shirt-sitting-in-front-of-computer-64YrPKiguAE?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash)
@@ -34,7 +35,7 @@ So how did I solve these problems? Naturally, I did what I was told to do when I
 
 I began to realize that my actual job was creating data products (analytical engines calibrated to answer specific question)[^3] for more senior researchers (and other stakeholders) using code. The more I approached my work this way, the more I realized that software engineers had encountered and solved (or mitigated) many of the problems I thought were novel, the more I adopted best practices from software engineering, and the more I began to realize that I was actually doing was ... software engineering. Put differently, I saw that I used the same tools as engineers, and found that adopting similar practices as engineers solved the problems I was encountering, so there was a high chance that my job had been horribly miscast. I was called a research analyst, but what I had been doing this whole time was a version of software engineering.[^4]
 
-[^3]: [`Emily Reiderer`{=html}](https://emilyriederer.netlify.app/about)` used and defined this term in a way that firmly lodged it in my conscious unconscious`{=html}
+[^3]: [`Emily Reiderer`{=html}](https://emilyriederer.netlify.app/about)`used and defined this term in a way that firmly lodged it in my conscious unconscious`{=html}
 
 [^4]: Don’t get me started on how, to the detriment of younger researchers and research as a whole, a lot of senior researchers still don’t see this. Truly, don’t get me started - in an earlier draft I had a whole paragraph that doubled as a very critical, very “clever” analogy, but my editor (read wife) convinced me that it was a little too on the nose 🤷🏾‍♂️.
 
