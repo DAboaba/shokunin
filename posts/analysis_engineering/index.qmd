@@ -3,11 +3,10 @@ title: "Analysis Engineering"
 date: "2024-02-06"
 categories: [ideas, explainers, analysis-engineering]
 description: "Thoughts on what I really do"
-image: "thisisengineering-raeng-64YrPKiguAE-unsplash.jpg"
-toc: false
+image: "radowan-nakif-rehan-cYyqhdbJ9TI-unsplash.jpg"
 ---
 
-[![Photo by ThisisEngineering RAEng on Unsplash](thisisengineering-raeng-64YrPKiguAE-unsplash.jpg){fig-align="center"}](https://unsplash.com/photos/woman-in-green-shirt-sitting-in-front-of-computer-64YrPKiguAE?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash)
+[![Photo by Radowan Nakif on Unsplash](radowan-nakif-rehan-cYyqhdbJ9TI-unsplash.jpg){fig-align="center" width="3767"}](https://unsplash.com/photos/black-flat-screen-computer-monitor-cYyqhdbJ9TI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 I’ve been working on a post about how I built my DS/ML blog, but I’m a perfectionist (and I’m new to this) so it’s taking me some time to write a post I’m happy with. That said, I do want to build a habit of posting regularly, so I decided to do a “shorter” piece on something I think about a lot … my job title.
 
